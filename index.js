@@ -31,11 +31,10 @@ const questions = [
     message: "What type of license would you like to add to your project?",
     choices: [
         "MIT",
-        "Apache",
-        "ISC",
-        "Mozilla Public Liense",
-        "Open",
-        "GNU"
+        "Apache 2.0",
+        "GNU",
+        "BSD",
+        "Compliant"
     ] 
 },
 {
