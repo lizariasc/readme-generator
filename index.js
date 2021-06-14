@@ -1,6 +1,7 @@
 // Packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
+const generateMarkDown = require('./utils/generateMarkdown.js');
 
 // Questions for user input
 const questions = [
@@ -60,8 +61,11 @@ const questions = [
 ];
 
 // function to write README file
-const writeToFile = (fileName, data) => {
-
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) => {
+        if (err) throw err;
+        console.log("The README file has been successfully created!")
+    });
 }
 
 // function to initialize app
