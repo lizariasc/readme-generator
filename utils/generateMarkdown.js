@@ -27,7 +27,7 @@ ${data.usage}
 ${data.contributing}
 
 ## Tests
-${data.tests}
+${data.test}
 
 ## Questions
 If you have any questions about this project, send me an email at ${data.email} or contact me through my [GitHub](https://github.com/${data.username})
