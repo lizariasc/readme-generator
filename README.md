@@ -29,7 +29,7 @@ Contributor Covenant
 No tests needed.
 
 ## Questions
-If you have any questions about this project, send me an email at lizethariasc14@gmail.com or contact me through my [GitHub](https://github.com/lizariasc)
+If you have any questions about this project, send me an email at lizethariasc14@gmail.com or contact me through my [GitHub](https://github.com/lizariasc).
 
 ## Application Demo Video
 [![Video Demo](video.png)](https://drive.google.com/file/d/1J8ZIj_HOdQawF7_b8ullZQxvcZVnnwCf/view)
