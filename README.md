@@ -1,8 +1,8 @@
 
-  # README Generator
+  # README.md file Generator
 
   ## Description
-  Text
+  A Node.js application that accepts arguments from the command line and generates a README.md file for your projects.
 
   ## Table of Contents
 
@@ -14,20 +14,22 @@
 * [Questions](#questions)
 
 ## Installation 
-Instructions
+The user needs to have installed Node.js, run npm init and npm install to use the application.
 
 ## Usage
-Purpose
+As developers, having a quality README file is an important aspect of any project, having a generator makes the process easier and more efficient. 
 
 ## License
-![license](https://img.shields.io/badge/license-Open-brightgreen)
+![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Contributing
-Contributor Avant
+Contributor Covenant
+
 ## Tests
 undefined
 
 ## Questions
-If you have any questions about this project, send me an email at email or contact me through my [GitHub](https://github.com/username): 
-[![username]
+If you have any questions about this project, send me an email at lizethariasc14@gmail.com or contact me through my [GitHub](https://github.com/lizariasc)
 
+## Application Demo Video
+https://drive.google.com/file/d/1J8ZIj_HOdQawF7_b8ullZQxvcZVnnwCf/view
